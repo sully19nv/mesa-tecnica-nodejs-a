@@ -1,0 +1,29 @@
+{
+  "name": "mesa-tecnica-nodejs-a",
+  "version": "1.0.0",
+  "description": "es una clase de explicacion de nodejs",
+  "keywords": [
+    "mesa",
+    "tecnica",
+    "nodejs",
+    "aprender"
+  ],
+  "homepage": "https://github.com/sully19nv/mesa-tecnica-nodejs-a#readme",
+  "bugs": {
+    "url": "https://github.com/sully19nv/mesa-tecnica-nodejs-a/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sully19nv/mesa-tecnica-nodejs-a.git"
+  },
+  "license": "MIT",
+  "author": "Programadores para la Paz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
